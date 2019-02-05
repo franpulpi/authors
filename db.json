@@ -1,4 +1,4 @@
-
+[
     {
       "id": "admin",
       "pass": "admin",
@@ -35,3 +35,4 @@
       "fullName": "Usuario2 TecnoFNV",
       "image": ""
     }
+]
