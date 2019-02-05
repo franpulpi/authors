@@ -1,0 +1,38 @@
+{
+    {
+      "id": "admin",
+      "pass": "admin",
+      "fullName": "administrador",
+      "image": ""
+    },
+    {
+      "id": "user",
+      "pass": "user",
+      "fullName": "usuario",
+      "image": ""
+    },
+    {
+      "id": "franpulpi",
+      "pass": "prueba1",
+      "fullName": "francisco",
+      "image": ""
+    },
+    {
+      "id": "usuario",
+      "pass": "usuario",
+      "fullName": "Usuario ",
+      "image": ""
+    },
+    {
+      "id": "usuario1",
+      "pass": "F01n2019",
+      "fullName": "Usuario TecnoFNV",
+      "image": ""
+    },
+    {
+      "id": "usuario2",
+      "pass": "F01n2019",
+      "fullName": "Usuario2 TecnoFNV",
+      "image": ""
+    }
+}
