@@ -1,94 +1,14 @@
 {
-  "authors": [
-    {
-      "id": "admin",
-      "pass": "admin",
-      "fullName": "administrador",
-      "image": ""
-    },
-    {
-      "id": "user",
-      "pass": "user",
-      "fullName": "usuario",
-      "image": ""
-    },
-    {
-      "id": "franpulpi",
-      "pass": "prueba1",
-      "fullName": "francisco",
-      "image": ""
-    },
-    {
-      "id": "usuario",
-      "pass": "usuario",
-      "fullName": "Usuario ",
-      "image": ""
-    },
-    {
-      "id": "usuario1",
-      "pass": "F01n2019",
-      "fullName": "Usuario TecnoFNV",
-      "image": ""
-    },
-    {
-      "id": "usuario2",
-      "pass": "F01n2019",
-      "fullName": "Usuario2 TecnoFNV",
-      "image": ""
-    }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
-  "authenticated": [
-
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "notices": [
-    {
-      "id": "0",
-      "author": "usuario2",
-      "by": "Author",
-      "title": "Prueba usuario2",
-      "img": "https://tecnovortex.com/wp-content/uploads/2014/04/cd-rayado-1068x674.jpg",
-      "content": "prueba noticia",
-      "timestamp": "23-1-2019"
-    }
-  ],
-  "author-favorites": [
-    {
-      "id": "admin",
-      "notices": []
-    },
-    {
-      "id": "user",
-      "notices": []
-    },
-    {
-      "id": "franpulpi",
-      "notices": []
-    },
-    {
-      "id": "usuario",
-      "notices": []
-    },
-    {
-      "id": "usuario1",
-      "notices": []
-    },
-    {
-      "id": "usuario2",
-      "notices": []
-    }
-  ],
-  "author-notices": [
-    {
-      "id": "1",
-      "notices": [
-        "Mx5Cf1483389903318"
-      ]
-    },
-    {
-      "id": "2",
-      "notices": [
-        "T4qdo1483390015454"
-      ]
-    }
-  ]
+  "profile": {
+    "name": "typicode"
+  }
 }
